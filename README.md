@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborat<!-- Custom Banner -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Akin%20Moladun%20|%20Full‑Stack%20Developer&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Coolguyolakunle%20|%20Full‑Stack%20Developer&fontSize=35&fontColor=ffffff" />
 </p>
 
 # Hi there, I'm Coolguyolakunle 👋
