@@ -13,7 +13,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Akin%20Moladun%20|%20Full‑Stack%20Developer&fontSize=35&fontColor=ffffff" />
 </p>
 
-# Hi there, I'm Akin 👋
+# Hi there, I'm Coolguyolakunle 👋
 
 <p align="center">
 Full‑stack developer • Flask specialist • Building real‑world products
