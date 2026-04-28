@@ -109,7 +109,7 @@ A web app that generates short location codes from GPS coordinates to make navig
 ## 📫 Contact Me
 
 * GitHub: [https://github.com/coolguyolakunle](https://github.com/YOUR_USERNAME)
-* Email: [olakunlee.martins@gmail.com](mailto:your.email@example.com)
+* Email: [coolguyolakunle10@gmail.com](mailto:your.email@example.com)
 
 ---
 
